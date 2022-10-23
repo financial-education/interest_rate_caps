@@ -8,5 +8,9 @@
 
 
 
+The /tenor/ is the time in between interest rate resets. Common tenors are 3 and 6 months.
+
+
+
 
 
