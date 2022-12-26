@@ -4,13 +4,19 @@
 #+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
 #+PROPERTY: header-args    :exports none
 
+* Example
 
+Say you /sold/ a floating rate note, which requires you to pay SOFR[fn:1] plus 2%.  
 
 
 
 The /tenor/ is the time in between interest rate resets. Common tenors are 3 and 6 months.
 
+- Notional:
+- Term:
+- Strike Rate:
+- Tenor:
 
+* Footnotes
 
-
-
+[fn:1]Secured Overnight Funding Rate (the replacement for LIBOR). 
